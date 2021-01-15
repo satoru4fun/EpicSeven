@@ -1,0 +1,3 @@
+[submodule "Catalyst"]
+	path = Catalyst
+	url = https://github.com/satoru4fun/EpicSeven-Catalyst.git
